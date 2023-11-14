@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+#paragraph{
+    margin-left: 1vw;
+}
+.inp{
+    margin-left: 1vw;
+}
+@media screen and (max-width: 768px) {
+    body{
+        margin-left: 4vw;
+    }
+    .input{
+        width: 50%;
+    }
+    .rowhead2{
+        margin-top: 30px;
+    }
+    .rowhead{
+        margin-top: 20px;
+    }
+    
+}
